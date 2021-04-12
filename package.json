@@ -1,0 +1,16 @@
+{
+  "name": "merge",
+  "version": "1.0.0",
+  "main": "src/solution.ts",
+  "author": "Gabriel Siedler <gabrielsiedler@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/solution.ts",
+    "dev": "ts-node-dev src/solution.ts"
+  },
+  "dependencies": {
+    "ts-node": "^9.1.1",
+    "ts-node-dev": "^1.1.6",
+    "typescript": "^4.2.4"
+  }
+}

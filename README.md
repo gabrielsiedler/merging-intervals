@@ -1,16 +1,20 @@
 # Merging Intervals
 
-## Setup
+## Setting up
 
 `yarn`
 
-## Run
+## Running
 
 `yarn start INPUT`
 
-example:
+> example:
+>
+> `yarn start "1-5, 2-10, 1-10"`
 
-`yarn start "1-5, 2-10, 1-10"`
+## Testing
+
+`yarn test` or `yarn test:watch`
 
 # Answers
 
